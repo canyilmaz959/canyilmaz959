@@ -67,13 +67,15 @@ Benim için yazılım geliştirmek yalnızca kod yazmak değil; problemleri anal
 <div align="center">
 
 <a href="https://github.com/canyilmaz959/kombi-ariza-rehberi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-ariza-rehberi&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-ariza-rehberi&theme=chartreuse-dark&border_color=00ff88" width="49%" />
 </a>
+
 <a href="https://github.com/canyilmaz959/kombi-servis-otomasyonu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-servis-otomasyonu&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-servis-otomasyonu&theme=chartreuse-dark&border_color=00ff88" width="49%" />
 </a>
+
 <a href="https://github.com/canyilmaz959/media-convert-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=media-convert-hub&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=canyilmaz959&repo=media-convert-hub&theme=chartreuse-dark&border_color=00ff88" width="49%" />
 </a>
 
 </div>
