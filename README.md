@@ -67,57 +67,24 @@ Benim için yazılım geliştirmek yalnızca kod yazmak değil; problemleri anal
 <div align="center">
 
 <a href="https://github.com/canyilmaz959/kombi-ariza-rehberi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-ariza-rehberi&theme=chartreuse-dark&border_color=00ff88" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-ariza-rehberi&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
 </a>
-
 <a href="https://github.com/canyilmaz959/kombi-servis-otomasyonu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-servis-otomasyonu&theme=chartreuse-dark&border_color=00ff88" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=kombi-servis-otomasyonu&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
 </a>
-
 <a href="https://github.com/canyilmaz959/media-convert-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=media-convert-hub&theme=chartreuse-dark&border_color=00ff88" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=canyilmaz959&repo=media-convert-hub&theme=chartreuse-dark&hide_border=false&border_color=00ff88" width="49%" />
 </a>
 
 </div>
 
-### 🔧 Kombi Arıza Rehberi
-
-Node.js, Express.js, EJS ve MongoDB kullanılarak geliştirilen web tabanlı kombi arıza rehberi.
-
-- Kombi markalarına ve hata kodlarına göre arıza bilgileri
-- Yönetim paneli
-- Docker ile geliştirme ortamı
-
-**[→ Projeyi incele](https://github.com/canyilmaz959/kombi-ariza-rehberi)**
-
-### 🖥️ KombiServis Pro
-
-Java Swing ve MySQL ile geliştirilen masaüstü servis yönetim uygulaması.
-
-- Müşteri ve arıza yönetimi
-- Stok takibi
-- PDF raporlama
-- MVC ve DAO mimarisi
-
-**[→ Projeyi incele](https://github.com/canyilmaz959/kombi-servis-otomasyonu)**
-
-### 📁 Media Convert Hub
-
-Node.js ve Docker tabanlı dosya dönüştürme uygulaması.
-
-- Dosya yükleme ve dönüştürme
-- Gotenberg entegrasyonu
-- PDF ve diğer belge formatlarıyla çalışma
-
-**[→ Projeyi incele](https://github.com/canyilmaz959/media-convert-hub)**
-
 ### 🎵 BeatForge
 
-Godot ve GDScript kullanılarak geliştirilmekte olan deneysel ritim oyunu.
+Godot ve GDScript ile geliştirmekte olduğum deneysel ritim oyunu.
 
-- Ses analizi
-- Prosedürel oynanış oluşturma
-- Müzik ritmine dayalı oyun mekanikleri
+- Ses analizi ve ritim algılama
+- Prosedürel oynanış
+- Müzik tabanlı oyun mekanikleri
 
 *Development in progress.*
 
@@ -127,9 +94,9 @@ Godot ve GDScript kullanılarak geliştirilmekte olan deneysel ritim oyunu.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=canyilmaz959&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=canyilmaz959&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canyilmaz959&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=canyilmaz959&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" />
 
 <br/>
 
