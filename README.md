@@ -1,49 +1,49 @@
-# Hi, I'm Can Yılmaz 👋
+# Merhaba, ben Can Yılmaz! 👋
 
 ### Junior Backend & Web Developer
 
-I'm a Computer Programming graduate interested in backend development, web technologies, and building practical software solutions.
+Bilgisayar Programcılığı mezunuyum. Backend geliştirme, web teknolojileri ve yazılım projeleri üzerine çalışıyorum.
 
-I enjoy turning ideas into working projects, exploring new technologies, and improving my development skills through hands-on experience.
+Fikirleri çalışan projelere dönüştürmeyi, yeni teknolojiler öğrenmeyi ve öğrendiklerimi gerçek projeler üzerinde uygulamayı seviyorum.
 
-### 🛠️ Tech Stack
+### 🛠️ Kullandığım Teknolojiler
 
-- **Languages:** Python, JavaScript, Java
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, MySQL, SQL
-- **Tools:** Git, GitHub, Docker
+- **Programlama Dilleri:** Python, JavaScript, Java
+- **Backend:** Node.js, Express.js, REST API
+- **Veritabanları:** MongoDB, MySQL, SQL
+- **Araçlar:** Git, GitHub, Docker
 - **Web:** HTML, CSS
 
-### 🚀 Featured Projects
+### 🚀 Öne Çıkan Projeler
 
 **[Kombi Arıza Rehberi](https://github.com/canyilmaz959/kombi-ariza-rehberi)**
 
-A web-based boiler troubleshooting guide built with Node.js, Express.js, EJS, and MongoDB. Includes boiler error codes and an administration system.
+Node.js, Express.js, EJS ve MongoDB kullanılarak geliştirilen, kombi arıza kodlarını ve çözüm bilgilerini sunan web tabanlı rehber uygulaması.
 
 **[KombiServis Pro](https://github.com/canyilmaz959/kombi-servis-otomasyonu)**
 
-A desktop-based service management application developed with Java Swing and MySQL. Includes customer management, fault tracking, inventory management, and PDF reporting.
+Java Swing ve MySQL ile geliştirilen masaüstü servis yönetim uygulaması. Müşteri, arıza, stok ve PDF raporlama özelliklerini içerir.
 
 **[Media Convert Hub](https://github.com/canyilmaz959/media-convert-hub)**
 
-A web-based file conversion application built with Node.js and Docker, integrating document conversion services.
+Node.js ve Docker kullanılarak geliştirilen, farklı dosya formatları arasında dönüşüm sağlayan web uygulaması.
 
 **BeatForge**
 
-An experimental rhythm game project developed with Godot and GDScript, focused on audio analysis and procedural gameplay generation.
+Godot ve GDScript ile geliştirmekte olduğum, ses analizi ve prosedürel oynanış mekanikleri üzerine odaklanan ritim oyunu projesi.
 
-### 🌱 Currently Exploring
+### 🌱 Şu Anda Öğrendiklerim ve Geliştirdiklerim
 
-- Backend development with Node.js and Express
-- Database design and API development
-- Docker and containerized applications
-- Game development with Godot
+- Node.js ve Express.js ile backend geliştirme
+- Veritabanı tasarımı ve API geliştirme
+- Docker ve container teknolojileri
+- Godot ile oyun geliştirme
 
-### 🔗 Find Me
+### 📫 Bana Ulaşın
 
 - **GitHub:** [@canyilmaz959](https://github.com/canyilmaz959)
-- **Portfolio:** [my-portfolio-just-m.vercel.app](https://my-portfolio-just-m.vercel.app)
+- **Portfolyo:** [my-portfolio-just-m.vercel.app](https://my-portfolio-just-m.vercel.app)
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Her proje yeni bir deneyim, her deneyim bir adım ileri.*
